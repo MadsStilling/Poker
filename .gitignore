@@ -1,3 +1,4 @@
 __*
-*.pyc >> .gitignore
-echo *.odt*
+*.pyc 
+*.odt*
+*test*
